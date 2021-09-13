@@ -31,6 +31,9 @@ $resultaat = match(intval($time)) {
     default => "Onbekende tijd"
 };
 echo $resultaat;
+echo "ewa";
+
+
 
 echo "<br>";
 
